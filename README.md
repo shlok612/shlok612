@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DATABASES (MONGODB,SQL)**
 
-- 👨‍💻 My Portfolio is available at [https://shlok612.github.io/myportfolio/](https://shlok612.github.io/myportfolio/)
+- 👨‍💻 My Portfolio is available at https://my-portfolio-wheat-theta-82.vercel.app/
 
 - 💬 Ask me about **Java and React**
 
